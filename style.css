@@ -17,8 +17,16 @@ h1{
     text-align: center;
 }
 table.glowne {
+    position:fixed;
     background-color: rgba(0, 0, 0, 0.4);
     text-align: center;
     font-size: 25px;
     font-family: Impact;
+    width:50%;
+}
+iframe{
+position:fixed;
+margin-left:53%;
+width:45%;
+height:45%;
 }
