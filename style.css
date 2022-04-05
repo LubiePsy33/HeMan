@@ -13,7 +13,12 @@ img{
 h1{
     color: blue;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 100px;
+    text-align: center;
 }
-table{
+table.glowne {
     background-color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    font-size: 25px;
+    font-family: Impact;
 }
