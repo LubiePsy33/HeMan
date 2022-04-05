@@ -6,3 +6,6 @@ img{
     height:100px;
     border-style: dashed;
 }
+.postaciepob td{
+    border: 5px solid #D98C16;
+}
