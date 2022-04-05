@@ -1,8 +1,19 @@
 body{
     color:tomato;
-}
+    background-image: url("https://c.tenor.com/qw1jdC5jF5cAAAAC/he-man-skeletor.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}   
 img{
     width:100px;
     height:100px;
     border-style: dashed;
+}
+h1{
+    color: blue;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+table{
+    background-color: rgba(0, 0, 0, 0.4);
 }
